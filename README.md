@@ -6,3 +6,4 @@ It contains example files and simple content to practice commits, branches, and 
 
 This repository is part of my Git and GitHub learning process.  
 It includes practice files in Python, Markdown, and Bash.
+This line was added as part of learning commit tracking.
