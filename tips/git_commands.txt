@@ -1,0 +1,5 @@
+# Useful git commands
+git status        # Show working directory status
+git add .         # Add all changes
+git commit -m ""  # Commit with message
+git push          # Push changes to GitHub
